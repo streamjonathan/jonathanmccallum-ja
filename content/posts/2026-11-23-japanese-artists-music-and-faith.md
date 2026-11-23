@@ -56,9 +56,9 @@ shareImage: /images/japanese-artists/kenta_dedachi.jpg
 <span class="ig-card__note">「咲いて、枯れ、芽生えて」— 咲いて、枯れて、また芽生える。東京のリビングルーム・セッションです。</span></span>
 </a>
 <a class="ig-card" href="https://www.instagram.com/reel/DfZyx0ThnPf/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/japanese-artists/thewayto_healing.jpg" alt="Chorino" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Chorino</span>
-<span class="ig-card__note">「全ての人と平和を」— ピアノの弾き語り。平和を願う、やさしい歌です。</span></span>
+<img class="ig-card__img" src="/images/japanese-artists/thewayto_healing.jpg" alt="ちょりの" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">ちょりの</span>
+<span class="ig-card__note">「全ての人と平和を」— アコースティックギターとキーボードのライブ。平和を願う、やさしい歌です。</span></span>
 </a>
 <a class="ig-card" href="https://www.instagram.com/p/DfQ3akvkgdN/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/japanese-artists/gospelsmith_jp.jpg" alt="GOSPEL SMITH" loading="lazy" width="150" height="150">
