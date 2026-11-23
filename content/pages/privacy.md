@@ -1,51 +1,118 @@
 ---
-title: "Privacy"
+title: "プライバシー"
 slug: privacy
 original_url: https://jonathanmccallum.com/privacy/
 ---
 
-# Privacy
+# プライバシー
 
-This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
+このサイトは、スペインのゲタリアに住むJonathan McCallumが運営しています。小さな個人サイトで、文章と、その文章から答えるチャットがあります。ここにはアカウントも、トラッキングも、広告も、売るものもありません。世界のどこにいる訪問者に対しても、ヨーロッパのプライバシー法（GDPR）に従っています。
 
 このページのことや、ご自身の個人データについて何か聞きたいことがあれば、Jonathanに<a href="#" data-contact-email data-contact-email-text>メールする</a>までメールを送ってください。[Instagram](https://www.instagram.com/jonamccallum)や[Threads](https://www.threads.com/@jonamccallum)でメッセージを送ることもできます。
 
-## The chat: "Interact with Jonathan's writing"
+## あなたのデータに責任を持つのは誰か
 
-When you type a question, it is sent to Cloudflare — the company that hosts this site — so its AI can look through Jonathan's published writing and draft an answer. The answer comes only from his writing, with a link to the post it came from.
+Jonathan McCallumがこのサイトのデータ管理者です。つまり、何を集めて何のために使うかを決めるのは彼です。彼は会社ではなく、データ保護責任者もいません。このような小さな個人サイトには必要ありません。
 
-- The site does not store your questions.
-- The chat is not Jonathan. It is an AI, and it can get things wrong.
-- Cloudflare is a US company, so your question may be processed outside Europe. That transfer is part of running the chat.
+## 何が集められ、なぜ集められるのか
 
-## Leave a note
+### チャット：「Jonathanの文章とやりとりする」
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. 返信がほしい場合は、<a href="#" data-contact-email data-contact-email-text>メールする</a>までメールを送るか、ソーシャルメディアでメッセージを送ってください。
+質問を入力すると、その質問はこのサイトをホストする会社であるCloudflareに送られ、AIがJonathanの公開された文章を調べて答えを作ります。答えは彼の文章からのみ生まれ、出典の記事へのリンクが付きます。
 
-## What is not collected
+- 質問そのものは保存されません。一方向のコード（ハッシュ）に変換され、同じ質問を誰かがもう一度した場合に、保存済みの答えを見つけられるようにします。良い答えは7日間保存され、その後削除されます。
+- チャットはJonathan本人ではありません。AIであり、間違えることもあります。
+- チャットの法的根拠は正当な利益です。公開された文章から質問に答える小さなサイトを運営することです。
 
-- No cookies, no tracking, no analytics, no advertising.
-- Search runs entirely on your own device.
-- A YouTube video only loads if you tap play on it.
-- The site never asks for your email address or social media details. If you ever see a form here asking for them, it is not part of this site — please don't fill it in.
+### サインイン
 
-## Your rights under European law (GDPR)
+Google、Instagram、LINE、またはメールでサインインできます。そうすることで、物語や提案、コメントが本当にあなたからのものだとJonathanが分かります。サインインはあなたが誰であるかを証明するだけです。あなたの代わりに投稿したり、メッセージを読んだり、プライベートなものを見たりはできません。ログインはあなたとGoogle、Instagram、LINE、またはあなたのメール提供者との間に留まります。このサイトがあなたのパスワードを見ることは決してありません。
 
-This site follows the EU's General Data Protection Regulation (GDPR) as its standard, wherever you are in the world.
+それぞれのサインインがサイトと共有するもの：
 
-- You can ask what personal data, if any, this site holds about you.
-- You can ask for it to be corrected or deleted, or for its use to be restricted.
-- You can object to its use, and you can complain to your local data protection authority. Jonathan lives in Spain, where the authority is the AEPD (Agencia Española de Protección de Datos).
-- Because the site stores nothing that identifies you — no accounts, no emails, no tracking — there is usually nothing to show or delete. Ask anyway and he will answer.
+- Google：あなたの名前と確認済みのメールアドレス。
+- Instagram：あなたのユーザー名とプロフィールへのリンク。
+- LINE：LINEで表示している名前。
+- メール：あなたのメールアドレス。6桁のコードで確認します。コードは一度だけ使え、10分で期限が切れます。
 
-The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
+サインインの情報はJonathanだけに見られ、あなたが本物であることを確認し、返信するためだけに使われます。サイト上で公開されることは決してありません。法的根拠はあなたの同意です。サインインするのはあなたの選択です。
 
-## Children
+### あなたの物語を共有する（インタビュー）
+
+あなたの物語を共有すると、サイトはあなたの名前、ソーシャルメディアのプロフィールへのリンク、3つの質問への答え、そしてどのサインインを使ったか、プロフィールが確認済みかどうかという記録を保管します。Jonathanがまず確認し、あなたと話すまでは何も公開されません。法的根拠はあなたの同意です。送るのはあなたの選択であり、許可のチェックボックスに印を付けます。
+
+### アーティストを提案する
+
+アーティストを提案すると、サイトはそのアーティストの名前とプロフィールへのリンク、Jonathanに何をしてほしいか、なぜその人なのか、そしてあなたが教えてくれた場合はあなたの名前とリンクを保管します。サインインは必要ありません。法的根拠はあなたの同意です。
+
+### メモを残す
+
+メモは匿名です。サイトは名前もメールアドレスもソーシャルメディアのアカウントも尋ねません。メモに個人情報を書かないでください。メモはJonathanが読んで削除するまで保管されます。返信がほしい場合は、<a href="#" data-contact-email data-contact-email-text>メールする</a>までメールを送るか、ソーシャルメディアでメッセージを送ってください。法的根拠はあなたの同意です。メモを残すのはあなたの選択です。
+
+### コメント
+
+記事にコメントすると、サイトはあなたの名前、コメント、そして追加した場合はソーシャルメディアのプロフィールや動画へのリンクを保管します。コメントは表示される前にJonathanが確認します。法的根拠はあなたの同意です。
+
+### 検索
+
+検索はすべてあなたの端末の中で行われます。検索した内容がどこかに送られることはありません。
+
+### 動画
+
+YouTubeの動画は、あなたがタップして再生したときにだけ読み込まれます。それまでは動画は読み込まれず、YouTubeに何も送られません。
+
+## Cookie
+
+このサイトで使うCookieはごくわずかです。あなたを追跡するものは一つもありません。
+
+| Cookieまたは保存場所 | 役割 | 保存期間 |
+|---|---|---|
+| `interview_session` | 物語の共有やコメントの間、サインイン状態を保ちます。 | 1時間 |
+| `theme`（あなたの端末に保存） | 明るいテーマと暗いテーマのどちらを選んだかを覚えます。 | 変更するまで |
+| `cookie-consent`（あなたの端末に保存） | Cookieを受け入れたか拒否したかを覚え、バナーが二度と尋ねないようにします。 | 変更するまで |
+| Googleサインイン | Cookieを受け入れた場合のみ：GoogleのサインインボタンがGoogleから読み込まれ、Googleが独自のCookieを設定することがあります。[Googleのプライバシーポリシー](https://policies.google.com/privacy)をご覧ください。 | Googleが定めます |
+
+初めて訪れたときにCookieバナーが表示されます。受け入れる・拒否するの2つのボタンが並んでいます。どちらも同じ働きです。トリックはありません。拒否してもサイトは使えます。すべて読めますし、チャットも使えますし、Instagram、LINE、メールでサインインもできます。Googleのサインホタンだけは表示されません。読み込むのにGoogleのCookieが必要だからです。気が変わったら、どのページの下部にある「Cookieの設定」リンクからいつでも変更できます。
+
+## あなたのデータが置かれる場所
+
+サイトはアメリカの会社であるCloudflareがホストしています。ページ、チャット、サインイン、保存されたメモは、アメリカとヨーロッパにあるCloudflareのネットワーク上にあります。メールサインインのコードは、同じくアメリカの会社であるResendが送ります。メールはアイルランドから送られますが、Resendはメールと配送の記録をアメリカに30日間保存します。新しいメモ、物語、提案についてJonathanに届くメールは、彼自身のGmailアカウントに届きます。
+
+ヨーロッパの外への転送は、CloudflareとResendのデータ処理契約にある標準契約条項と、両社が参加しているEU–USデータプライバシーフレームワークによってカバーされています。
+
+## 保存期間
+
+- サインインのセッション：1時間。サインインのコード：10分。
+- チャットの答え：7日間、その後削除されます。
+- メモ、物語、提案、コメント：Jonathanが対応して削除するまで保管されます。
+- Resendのサインインコード：Resendが30日間保管します。
+
+## 販売と広告
+
+このサイトはあなたの個人情報を販売しません。広告のためにあなたの情報を共有することもなく、このサイトに広告はありません。あなたのデータを扱うのは、上で挙げたサービス（Cloudflare、Resend、Gmail）だけであり、サイトの運営のためだけに処理します。
+
+## ヨーロッパ法（GDPR）に基づくあなたの権利
+
+このサイトは、世界のどこにいても、EUの一般データ保護規則（GDPR）を基準としています。
+
+- このサイトがあなたについてどのような個人データを保持しているか、もしあれば尋ねることができます。
+- その訂正や削除、または利用の制限を求めることができます。
+- そのコピーを求めることができ、その利用に異議を唱えることもできます。
+- 同意はいつでも撤回できます。たとえばサインアウトしたり、送ったものを削除するようJonathanに頼んだりできます。
+- 地元のデータ保護当局に苦情を申し立てることができます。Jonathanはスペインに住んでおり、スペインの当局はAEPD（Agencia Española de Protección de Datos、aepd.es）です。
+
+サイトが保存するものはごくわずかなので、見せたり削除したりするものはたいていありません。それでも尋ねてください。彼は答えます。尋ねるには、Jonathanに<a href="#" data-contact-email data-contact-email-text>メールする</a>までメールを送るか、[Instagram](https://www.instagram.com/jonamccallum)や[Threads](https://www.threads.com/@jonamccallum)でメッセージを送ってください。
+
+## 子ども
 
 このサイトは18歳未満の方を対象としていません。イエスへの信仰について書かれており、それは宗教的な内容なので、大人向けに書かれています。18歳未満の方は、ここで個人情報を共有しないでください。また、Jonathanに連絡をしないでください。
 
 スペインでは、法律により14歳未満の子どもがオンラインで個人データを共有するには、親または保護者の同意が必要です。このサイト独自のルールはそれより厳しく、18歳未満の方にはこのサイトは向いていません。
 
-## Changes
+## 法的表示
 
-This page will be updated if anything about the site changes. Last updated 21 November 2026.
+これは個人のウェブサイトです。ここにあるものはすべてJonathan自身の文章であり、彼自身の考えです。いかなる種類の専門的な助言でもありません。医療、法律、金融、その他いずれでもありません。チャットは彼の公開された文章からのみ答え、間違えることもあります。このサイトに誤りや古い情報があれば、教えてください。彼は直します。
+
+## 変更
+
+サイトについて何か変われば、このページは更新されます。最終更新日：2026年11月23日。
