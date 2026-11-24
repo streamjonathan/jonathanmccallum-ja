@@ -3,7 +3,7 @@ title: "音楽と信仰"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/gospelliondk.jpg
 ---
 
 インスタグラムで、いろいろなミュージシャンの音楽をよく聴いています。最近聴いている人たちを紹介します。
@@ -14,70 +14,68 @@ shareImage: /images/music-faith/sonreal.jpg
 
 みんなが礼拝の歌を歌っているわけではありません。ほとんどの人はただ人生について歌っていて、その中に信仰があります。それが好きなところです。カードをタップすると、インスタグラムで歌を聴けます。
 
-SonRealの新曲へのリアクション動画も作りました。こちらから見られます。
-
-[SonRealの新曲への私のリアクション](https://www.youtube.com/shorts/wePjZMr6beE)
+この歌は日本語です。日本語で歌うミュージシャンたちです。賛美歌を歌う人もいれば、人生について歌う人もいて、信仰はその一部です。
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">いい音楽は聴けばわかる、というユーモアあふれる希望に満ちたラップ。見た目で判断してはいけません。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfhZVYQPNjX/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/gospelliondk.jpg" alt="Daisuke Yokoyama" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Daisuke Yokoyama</span>
+<span class="ig-card__note">日本語のゴスペルを歌い、神様の愛と希望を届けています。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">「席をとっておくね。」やさしい歌と、空いている椅子。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DeTnGVuSAn_/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/anna_calla_.jpg" alt="Anna Calla" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Anna Calla</span>
+<span class="ig-card__note">日本語のゴスペルシンガーソングライター。心に響く歌声です。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">1年以上前に初めて弾いた曲「Notice」が、ついにリリースされました。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/De-19RuB0H9/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/tsuguru_nakayama.jpg" alt="Tsuguru Nakayama" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Tsuguru Nakayama</span>
+<span class="ig-card__note">イエスに人生をゆだね、歌でその話を伝えています。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">「Your Heart in the Fire」— 北の国からのローファイ・フォーク。正直で、風にさらされたような、生の音。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df6tdJni7xn/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/tia_singer.jpg" alt="TiA" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">TiA</span>
+<span class="ig-card__note">日本語のゴスペルシンガー。力強く、あたたかい歌声です。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">去年、神に人生をゆだねました。今はその話を伝え、神をほめたたえたいと思っています。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgCI6UbpEGa/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sax_yasutake.jpg" alt="Motoaki Yasutake" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Motoaki Yasutake</span>
+<span class="ig-card__note">ゴスペルジャズのサックス。やさしく、深い音色です。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">新曲「Not Alone」。サンフランシスコの部屋で、みんなが一言一句歌っています。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Da7zmc1So2U/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sakura_yamakawa.jpg" alt="Sakura Yamakawa" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sakura Yamakawa</span>
+<span class="ig-card__note">日本語で賛美を歌っています。詩篇の言葉とともに。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">「Secret Fort」— 教会の裏での子どもの日々、夕方の鐘、親友たち、想像の世界。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df8i0pizG-N/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/laurenhorii.jpg" alt="Lauren Horii" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Lauren Horii</span>
+<span class="ig-card__note">ワーシップリーダー。日本語と英語で歌っています。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">ルカ15章、放蕩息子の話から生まれた新曲。「Let Me Go」です。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DeB5LqGBukl/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/samuellsoung.jpg" alt="Samuell Soung" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Samuell Soung</span>
+<span class="ig-card__note">イエスに従うシンガーソングライター。やさしい歌です。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">「イエスは優しい。ツアーは贈り物。」故郷で歌われる彼女の歌。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgFc3Dsxbo0/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/miura_sammy.jpg" alt="Miura Sammy" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Miura Sammy</span>
+<span class="ig-card__note">歌うカウンセラー。日本語のクリスチャンポップです。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">曲「keep going」— 夢のようなレトロなイエスの音楽。配信中です。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfcJ72OBcbR/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/yujikurokawa.jpg" alt="Yuji Kurokawa" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Yuji Kurokawa</span>
+<span class="ig-card__note">ワーシップリーダー。日本語の賛美を歌っています。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">「イエスについて聞く必要がある人を、みんな知っている。」</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgGoW9eyz2h/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/marisagospel.jpg" alt="Marisa" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Marisa</span>
+<span class="ig-card__note">ゴスペルシンガー。希望と喜びを歌声で届けています。</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">心の健康についての旅を歌った曲。そしてポップパンクでもあります。</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfwmLzgzOf7/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/yuta_yamamoto_gospelkeys.jpg" alt="Yuta Yamamoto" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Yuta Yamamoto</span>
+<span class="ig-card__note">ゴスペルのピアノとキーボード。神様の栄光のために。</span></span>
 </a>
 </div>
 
