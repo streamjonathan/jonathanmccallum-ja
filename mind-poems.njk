@@ -1,0 +1,61 @@
+---
+layout: layouts/base.njk
+title: 今日の詩
+permalink: /mind-poems/
+eleventyExcludeFromCollections: true
+---
+
+<h1 class="site-title">今日の詩</h1>
+<hr class="rule-gold">
+<p class="translation-note translation-note--top">翻訳がうまくいっているといいなと思っています。たぶん、いくつか間違いがあります。</p>
+<p class="mind-poems__intro">小さな詩を、一日ひとつ。手書きのカレンダーのマスに書いた詩です。日本語の訳は、まだ誰にも見てもらっていない下書きです。</p>
+
+<div class="mind-poems__card" id="mind-poem-card" data-fade>
+  <p class="mind-poems__day mind-poems__accent--gold" id="mind-poem-num">2</p>
+  <p class="mind-poems__day-label" id="mind-poem-label">2日目の詩</p>
+  <p class="mind-poems__poem" id="mind-poem-ja">愛はあなたとともに<br>いつまでも<br>あなたは自由<br>イエスのうちに</p>
+  <p class="mind-poems__en" id="mind-poem-en">Love is with<br>you, forever<br>you are free<br>in Jesus</p>
+  <p class="mind-poems__nav">
+    <button type="button" id="mind-poem-prev">← 前の詩</button>
+    <button type="button" id="mind-poem-today">今日の詩</button>
+    <button type="button" id="mind-poem-next">次の詩 →</button>
+  </p>
+</div>
+
+<p class="mind-poems__note">今日の詩は、日にちで決まります。2日は2日目の詩、3日は3日目の詩、というように、6日ごとにくり返します。1日は7日目の詩です。</p>
+<p><a href="#all-poems">6つの詩をすべて見る ↓</a></p>
+
+<h2 id="all-poems">6つの詩</h2>
+<ul class="mind-poems__list">
+  <li>
+    <p class="mind-poems__day mind-poems__accent--gold">2</p>
+    <p class="mind-poems__poem">愛はあなたとともに<br>いつまでも<br>あなたは自由<br>イエスのうちに</p>
+    <p class="mind-poems__en">Love is with<br>you, forever<br>you are free<br>in Jesus</p>
+  </li>
+  <li>
+    <p class="mind-poems__day mind-poems__accent--silver">3</p>
+    <p class="mind-poems__poem">ヒースの丘は<br>燃えるように<br>風の草原の<br>下に広がる</p>
+    <p class="mind-poems__en">The heather<br>fell and flaming<br>across the windy<br>meadow below</p>
+  </li>
+  <li class="mind-poems__card--boxed">
+    <p class="mind-poems__day mind-poems__accent--bronze">4</p>
+    <p class="mind-poems__poem">日差しの浜、清らかに<br>どよめき、炎 +<br>美しさはいつまでも<br>さらに</p>
+    <p class="mind-poems__en">Sunlit shore, clean<br>roar, flame +<br>beauty forever<br>more</p>
+  </li>
+  <li>
+    <p class="mind-poems__day mind-poems__accent--gold">5</p>
+    <p class="mind-poems__poem">りんごを食べた<br>でも、そう単純ではなく<br>実は消化され<br>天国が地上に<br>失われたのか、先送りにされたのか<br>（それは）<br>造り主へと向かう</p>
+    <p class="mind-poems__en">apple eaten<br>but not exactly<br>fruit digested<br>heaven on earth<br>lost or postponed<br>(turns) to the<br>creator.</p>
+  </li>
+  <li>
+    <p class="mind-poems__day mind-poems__accent--silver">6</p>
+    <p class="mind-poems__poem">雪が降る、光<br>低く、すべての天が<br>上にも下にも<br>わたしたちは座っている<br>とても大きな世界に</p>
+    <p class="mind-poems__en">snow fall, light<br>low, all heavens<br>above and below<br>we sit in a world<br>so big</p>
+  </li>
+  <li>
+    <p class="mind-poems__day mind-poems__accent--bronze">7</p>
+    <p class="mind-poems__poem">雲が集まる<br>それでも落ちて<br>流れていく<br>天の涙とともに</p>
+    <p class="mind-poems__en">the clouds gather<br>yet they fall to<br>flow with the<br>tears of heaven</p>
+  </li>
+</ul>
+<script src="/js/mind-poems.js?v=1" defer></script>

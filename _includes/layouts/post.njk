@@ -3,6 +3,7 @@ layout: layouts/base.njk
 ---
 <article>
   <h1>{{ title }}</h1>
+  <p class="translation-note translation-note--top">翻訳がうまくいっているといいなと思っています。たぶん、いくつか間違いがあります。</p>
   {% if page.date %}
   <p class="meta"><time datetime="{{ page.date.toISOString() }}">{{ page.date.toISOString().slice(0, 10) }}</time></p>
   {% endif %}
