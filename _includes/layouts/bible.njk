@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+---
+<article>
+  <h1>{{ title }}</h1>
+  <aside class="bible-note">
+    <p>このページの本文は、1917年（大正6年）に出版された大正改訳（文語訳）新約聖書です。著作権は切れており、パブリックドメインです。</p>
+    <p>本文は<a href="{{ wikisourceUrl }}">ウィキソースのデジタル化テキスト</a>（<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>）にもとづきます。現代の日本語で読みたい方は、<a href="{{ youversionUrl }}">口語訳（YouVersion）</a>をご覧ください。</p>
+  </aside>
+  <div class="bible-text">
+  {{ content | safe }}
+  </div>
+  <nav class="post-nav" aria-label="ほかの書">
+    {% if prevUrl %}<a class="post-nav__prev" href="{{ prevUrl }}">← {{ prevTitle }}</a>{% endif %}
+    {% if nextUrl %}<a class="post-nav__next" href="{{ nextUrl }}">{{ nextTitle }} →</a>{% endif %}
+  </nav>
+  <p class="bible-index-link"><a href="/bible/">新約聖書の目次へ</a></p>
+</article>

@@ -478,3 +478,55 @@ button[type="submit"] {
 .return-home { display: inline-block; padding: 0.6rem 1.1rem; border: 2px solid var(--link); border-radius: 0.75rem; font-weight: 600; text-decoration: none; color: var(--text); }
 .return-home:hover, .return-home:focus-visible { background: var(--field-bg); }
 .site-footer .return-home { margin-bottom: 0.5rem; }
+
+/* Site nav: New Testament, gospel stories, today's poem. One short row
+   under the header, visible without scrolling on desktop and mobile. */
+.site-nav { display: flex; flex-wrap: wrap; gap: 0.25rem 1.25rem; padding: 0.25rem 0.25rem 0.5rem; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: 1rem; border-bottom: 1px solid var(--line); }
+.site-nav a { padding: 0.6rem 0; text-decoration: none; }
+.site-nav a:first-child { font-weight: 600; }
+
+/* Translation note, shown near the top of article pages as well as in
+   the footer. Same Jonathan-approved wording, small and muted. */
+.translation-note--top { font-size: 0.9rem; color: var(--muted); margin: 0.25rem 0 1rem; }
+
+/* Gospel stories on the homepage: a labelled collection, not just the
+   newest-posts list. */
+.gospel-stories { margin-top: 2.5rem; }
+
+/* Bungo New Testament pages. Scripture text is plain and light: one
+   verse per paragraph, verse numbers small and muted. */
+.bible-note { border: 1px solid var(--line); border-left: 3px solid var(--link); border-radius: 0.5rem; padding: 0.75rem 1rem; margin: 1rem 0 1.5rem; font-size: 0.95rem; color: var(--muted); }
+.bible-note p { margin: 0.35rem 0; }
+.bible-text { font-size: 1.0625rem; }
+.bible-chapter { margin-top: 2rem; }
+.bible-verse { margin: 0.35rem 0; }
+.bible-verse__num { color: var(--muted); font-size: 0.8em; margin-right: 0.5rem; font-variant-numeric: tabular-nums; }
+.bible-index { list-style: none; padding-left: 0; }
+.bible-index li { margin: 0.4rem 0; }
+.bible-index-link { margin-top: 2rem; }
+
+/* Mind Poems — one poem a day. Fraunces day numbers and poem text,
+   Newsreader labels, gold / silver / bronze rotating accents. */
+.mind-poems__intro { font-size: 1.05rem; }
+.mind-poems__card { border: 1px solid var(--line); border-radius: 0.75rem; padding: 1.25rem 1.25rem 1rem; margin: 1.5rem 0; text-align: center; }
+.mind-poems__card--boxed { border: 2px solid var(--text); }
+.mind-poems__day { font-family: "Fraunces", Georgia, "Iowan Old Style", "Times New Roman", serif; font-weight: 600; font-size: 2rem; line-height: 1.1; margin: 0 0 0.25rem; }
+.mind-poems__day-label { font-family: "Newsreader", Georgia, "Iowan Old Style", "Times New Roman", serif; font-size: 0.9rem; color: var(--muted); margin: 0 0 1rem; }
+.mind-poems__poem { font-family: "Fraunces", Georgia, "Iowan Old Style", "Times New Roman", serif; font-weight: 600; font-size: 1.35rem; line-height: 1.6; margin: 0.5rem 0; }
+.mind-poems__en { color: var(--muted); font-size: 0.95rem; line-height: 1.6; margin: 0.75rem 0 0; }
+.mind-poems__nav { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; margin: 1.25rem 0 0; }
+.mind-poems__nav button { padding: 0.6rem 1.1rem; border: 1px solid var(--line); border-radius: 0.75rem; font: 1rem system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--text); background: var(--field-bg); cursor: pointer; min-height: 2.75rem; }
+.mind-poems__nav button:hover, .mind-poems__nav button:focus-visible { border-color: var(--link); }
+.mind-poems__accent--gold { color: #e8c87a; }
+.mind-poems__accent--silver { color: #9aa0a6; }
+.mind-poems__accent--bronze { color: #c07f3e; }
+html[data-theme="light"] .mind-poems__accent--gold { color: #7a5a10; }
+html[data-theme="light"] .mind-poems__accent--silver { color: #6d7280; }
+html[data-theme="light"] .mind-poems__accent--bronze { color: #96601f; }
+.mind-poems__list { list-style: none; padding-left: 0; }
+.mind-poems__list li { border-top: 1px solid var(--line); padding: 1rem 0; }
+.mind-poems__list .mind-poems__day { font-size: 1.5rem; text-align: left; }
+.mind-poems__list .mind-poems__poem { font-size: 1.2rem; text-align: left; }
+.mind-poems__list .mind-poems__en { text-align: left; }
+.mind-poems__note { color: var(--muted); font-size: 0.95rem; }
+.mind-poems__list li.mind-poems__card--boxed { padding: 1rem; border-radius: 0.75rem; }
