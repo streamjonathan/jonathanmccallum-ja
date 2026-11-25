@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # プライバシー
 
-このサイトは、スペインのゲタリアに住むJonathan McCallumが運営しています。小さな個人サイトで、文章と、その文章から答えるチャットがあります。ここにはアカウントも、トラッキングも、広告も、売るものもありません。世界のどこにいる訪問者に対しても、ヨーロッパのプライバシー法（GDPR）に従っています。
+このサイトは、バスク地方に住むJonathan McCallumが運営しています。小さな個人サイトで、文章と、その文章から答えるチャットがあります。ここにはアカウントも、トラッキングも、広告も、売るものもありません。世界のどこにいる訪問者に対しても、ヨーロッパのプライバシー法（GDPR）に従っています。
 
 このページのことや、ご自身の個人データについて何か聞きたいことがあれば、Jonathanに<a href="#" data-contact-email data-contact-email-text>メールする</a>までメールを送ってください。[Instagram](https://www.instagram.com/jonamccallum)や[Threads](https://www.threads.com/@jonamccallum)でメッセージを送ることもできます。
 
