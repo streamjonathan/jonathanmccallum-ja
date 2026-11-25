@@ -1,0 +1,46 @@
+---
+title: "いのちの満ちあふれ"
+date: 2013-11-24
+slug: fullness-life
+draft: false
+shareImage: /images/2013-11-monet-water-lilies-bridge.jpg
+original_url: http://www.jonathanmccallum.com/2013/11/24/fullness-life/
+wayback_url: https://web.archive.org/web/20141024080304/http://www.jonathanmccallum.com/2013/11/24/fullness-life/
+wayback_timestamp: 20141024080304
+---
+
+英語で読む: [Read it in English](https://jonathanmccallum.com/2013/11/24/fullness-life/)
+
+<p class="translation-note translation-note--top">この翻訳はまだ作業中です。私の詩の感じや雰囲気に合うように、読んでもらって直しているところです。私の詩はシンプルです。詩について、そしてなぜ詩を書くのが好きなのか、まだ学んでいるところです。</p>
+
+<img src="/images/2013-11-monet-water-lilies-bridge.jpg" alt="睡蓮と日本の橋、クロード・モネ" loading="lazy">
+
+*睡蓮と日本の橋、クロード・モネ（1899年）、パブリックドメイン。*
+
+満ちあふれるいのち
+
+曇りガラスの心を通して、
+
+あなたはわたしを見てくれる。それだけで、
+
+しつこい自分本位がとけていく。あなたの霊の川が
+
+流れ、見つめ、
+
+このなじみの空っぽの井戸を
+
+愛で満たしていく。
+
+どうして、あなたを見ると、
+
+自由の愛を感じるのだろう、
+
+いのちの満ちあふれ。
+
+あなたは、わたしのたどたどしい弱さには
+
+おさまりきれない神秘。
+
+---
+
+この訳は、まだ誰にも見てもらっていない下書きです。英語版とくらべて、意味が同じかどうか、まちがっているところがないか、教えてもらえるとうれしいです。<a href="#" data-contact-email>メールで知らせる</a>か、英語版のページにサインインしてコメントを残してください。
