@@ -9,6 +9,8 @@ wayback_url: https://web.archive.org/web/20141023101403/http://www.jonathanmccal
 wayback_timestamp: 20141023101403
 ---
 
+英語で読む: [Read it in English](https://jonathanmccallum.com/2013/11/25/hookers-drunks/)
+
 <img src="/images/2013-11-monet-magpie.jpg" alt="カササギ、クロード・モネ" loading="lazy">
 
 *カササギ、クロード・モネ（1868–1869年）、パブリックドメイン。*
@@ -42,3 +44,7 @@ wayback_timestamp: 20141023101403
 彼はまだそこにいる。それでもわたしは自分の家に戻っている。不思議に思いながら、酔ったまま、毒は少なくなり、自分は少なくなり、それでも、これからずっとあり続ける自分が、もっといる。
 
 …
+
+---
+
+この訳は、まだ誰にも見てもらっていない下書きです。英語版とくらべて、意味が同じかどうか、まちがっているところがないか、教えてもらえるとうれしいです。<a href="#" data-contact-email>メールで知らせる</a>か、英語版のページにサインインしてコメントを残してください。

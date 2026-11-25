@@ -9,6 +9,8 @@ wayback_url: https://web.archive.org/web/20141024080304/http://www.jonathanmccal
 wayback_timestamp: 20141024080304
 ---
 
+英語で読む: [Read it in English](https://jonathanmccallum.com/2013/11/24/fullness-life/)
+
 <img src="/images/2013-11-monet-water-lilies-bridge.jpg" alt="睡蓮と日本の橋、クロード・モネ" loading="lazy">
 
 *睡蓮と日本の橋、クロード・モネ（1899年）、パブリックドメイン。*
@@ -36,3 +38,7 @@ wayback_timestamp: 20141024080304
 あなたは、わたしのたどたどしい弱さには
 
 おさまりきれない神秘。
+
+---
+
+この訳は、まだ誰にも見てもらっていない下書きです。英語版とくらべて、意味が同じかどうか、まちがっているところがないか、教えてもらえるとうれしいです。<a href="#" data-contact-email>メールで知らせる</a>か、英語版のページにサインインしてコメントを残してください。
