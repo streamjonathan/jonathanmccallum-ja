@@ -11,6 +11,8 @@ wayback_timestamp: 20201111202610
 
 英語で読む: [Read it in English](https://jonathanmccallum.com/2014/02/24/glass-shatters/)
 
+<p class="translation-note translation-note--top">この翻訳はまだ作業中です。私の詩の感じや雰囲気に合うように、読んでもらって直しているところです。私の詩はシンプルです。詩について、そしてなぜ詩を書くのが好きなのか、まだ学んでいるところです。</p>
+
 <img src="/images/2014-02-monet-epte-river-bend.jpg" alt="ジヴェルニー近くのエプト川の曲がり、クロード・モネ" loading="lazy">
 
 *ジヴェルニー近くのエプト川の曲がり、クロード・モネ（1888年）、パブリックドメイン。*

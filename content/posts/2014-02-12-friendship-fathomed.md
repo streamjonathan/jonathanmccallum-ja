@@ -11,6 +11,8 @@ wayback_timestamp: 20140212123548
 
 英語で読む: [Read it in English](https://jonathanmccallum.com/2014/02/12/friendship-fathomed/)
 
+<p class="translation-note translation-note--top">この翻訳はまだ作業中です。私の詩の感じや雰囲気に合うように、読んでもらって直しているところです。私の詩はシンプルです。詩について、そしてなぜ詩を書くのが好きなのか、まだ学んでいるところです。</p>
+
 <img src="/images/2014-02-monet-sainte-adresse-beach.jpg" alt="サンタドレスの浜、クロード・モネ" loading="lazy">
 
 *サンタドレスの浜、クロード・モネ（1867年）、パブリックドメイン。*
