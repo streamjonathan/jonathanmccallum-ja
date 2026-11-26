@@ -14,9 +14,7 @@ shareImage: /images/hokusai-great-wave.jpg
 
 *神奈川沖浪裏、葛飾北斎（1831年ごろ）、パブリックドメイン。*
 
-日本語を聞いて学ぶ、という動画を見ました。トレントンさんの[「Learning Japanese Isn't Actually That Hard」](https://youtu.be/7fvCb5_Nzq4)です。私は同じ方法で、バスク語と日本語を学んでいます。
-
-**動画を見る：[Learning Japanese Isn't Actually That Hard](https://youtu.be/7fvCb5_Nzq4) — トレントンさんが、方法の全部を21分で説明しています。見る価値があります。**
+日本語を聞いて学ぶ、という動画を見ました。トレントンさんの「Learning Japanese Isn't Actually That Hard」です。私は同じ方法で、バスク語と日本語を学んでいます。
 
 動画のポイントはシンプルです。言葉は、数学の問題のように勉強して覚えるものではありません。聞いて、理解することで身につきます。これを「イマージョン」と言います。本物の言葉をたくさん聞いて、脳にまかせるのです。
 
@@ -101,6 +99,8 @@ Japanese Contemporary Bible (リビングバイブル), © 1978, 2016 by Biblica
 *凱風快晴（赤富士）、葛飾北斎（1830〜1832年ごろ）、パブリックドメイン。*
 
 少しずつ、つづけていきます。あなたも言葉を学んでいますか。何を聞いていますか。
+
+**動画を見る：[Learning Japanese Isn't Actually That Hard](https://youtu.be/7fvCb5_Nzq4) — トレントンさんが、方法の全部を21分で説明しています。見る価値があります。**
 
 ---
 
