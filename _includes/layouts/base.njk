@@ -96,13 +96,13 @@
   <a href="/mind-poems/">今日の詩</a>
 </nav>
 <nav class="return-home-bar" aria-label="English version">
-  <a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a>
+  <a class="return-home" href="{% if page.url == "/404.html" %}/{% else %}https://jonathanmccallum.com{{ page.url }}{% endif %}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a>
 </nav>
 <main id="main">
 {{ content | safe }}
 </main>
 <footer class="site-footer">
-  <p><a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a></p>
+  <p><a class="return-home" href="{% if page.url == "/404.html" %}/{% else %}https://jonathanmccallum.com{{ page.url }}{% endif %}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a></p>
   <p class="translation-note">翻訳がうまくいっているといいなと思っています。たぶん、いくつか間違いがあります。</p>
   <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">検索</a> · <a href="/privacy/">プライバシー</a> · <a href="#" id="cookie-settings">Cookieの設定</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>

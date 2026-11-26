@@ -3,7 +3,7 @@ title: "寓話じゃない、正確には"
 date: 2026-11-26
 slug: not-allegory-exactly
 draft: false
-shareImage: /images/jono-not-allegory-gold.jpg
+shareImage: /images/jono-not-allegory-gold-ja.jpg
 source_video: https://www.youtube.com/watch?v=LOAuNNf0eVs&t=2s
 ---
 
@@ -11,7 +11,7 @@ source_video: https://www.youtube.com/watch?v=LOAuNNf0eVs&t=2s
 
 <p class="translation-note translation-note--top">この翻訳はまだ作業中です。この文章の感じや雰囲気に合うように、読んでもらって直しているところです。私の文章はシンプルです。書くことについて、そしてなぜ書くのが好きなのか、まだ学んでいるところです。</p>
 
-![「寓話じゃない、正確には」のサムネイル](/images/jono-not-allegory-gold.jpg)
+![「寓話じゃない、正確には」のサムネイル](/images/jono-not-allegory-gold-ja.jpg)
 
 映画が出たら、僕は本のことを考えているでしょう。映画ではなく、本です。『魔術師のおい』そのもの、原点と物語のことを。それは僕について、何を言っているでしょう。きっと読み返します。もう一度、新しく発見しながら。その美しさと、神であるイエスへと私たちを導く力を。
 
