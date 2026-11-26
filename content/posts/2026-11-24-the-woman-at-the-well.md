@@ -6,8 +6,13 @@ draft: false
 pillar: 5
 article_number: 43
 passage: "John 4:1-42"
+shareImage: /images/jesus-teachings/article-43-the-woman-at-the-well.jpg
 description: "昼どき、疲れてのどが渇いたイエスは、サマリアの女に水を求めました。代わりに、生ける水を差し出しました。"
 ---
+
+<img src="/images/jesus-teachings/article-43-the-woman-at-the-well.jpg" alt="井戸のサマリアの女、ジェームズ・ティソ作" loading="lazy">
+
+*井戸のサマリアの女、ジェームズ・ティソ、パブリックドメイン。*
 
 もっと何かがほしいと渇く気持ちは、みんな知っています。日本で読んでくださっているみなさん、こんにちは。
 

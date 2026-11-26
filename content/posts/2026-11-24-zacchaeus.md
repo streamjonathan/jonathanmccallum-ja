@@ -6,8 +6,13 @@ draft: false
 pillar: 5
 article_number: 42
 passage: "Luke 19:1-10"
+shareImage: /images/jesus-teachings/article-42-zacchaeus.jpg
 description: "ザアカイは背が低くて群衆の上から見えなかったので、木に登りました。イエスは見上げて、名前を呼び、家に来ました。"
 ---
+
+<img src="/images/jesus-teachings/article-42-zacchaeus.jpg" alt="木に登ったザアカイ、ジェームズ・ティソ作" loading="lazy">
+
+*木に登ったザアカイ、ジェームズ・ティソ、パブリックドメイン。*
 
 小さくて見えない気持ちは、みんな知っています。日本で読んでくださっているみなさん、こんにちは。
 

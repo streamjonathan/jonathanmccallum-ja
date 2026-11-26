@@ -6,8 +6,13 @@ draft: false
 pillar: 2
 article_number: 39
 passage: "Matthew 14:22-33"
+shareImage: /images/jesus-teachings/article-39-walking-on-water.jpg
 description: "夜遅く、風と波の中で、弟子たちは水の上を歩くイエスを見ました。ペトロは船から出ました。"
 ---
+
+<img src="/images/jesus-teachings/article-39-walking-on-water.jpg" alt="水の上を歩くイエス、ジェームズ・ティソ作" loading="lazy">
+
+*水の上を歩くイエス、ジェームズ・ティソ、パブリックドメイン。*
 
 暗闇の中でこわい思いをする気持ちは、みんな知っています。日本で読んでくださっているみなさん、こんにちは。
 
