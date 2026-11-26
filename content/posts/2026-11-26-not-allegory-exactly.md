@@ -31,6 +31,16 @@ source_video: https://www.youtube.com/watch?v=LOAuNNf0eVs&t=2s
 
 人が意見を分かれる理由は、分かります。たいていの場合、こういう神学の議論があるのは、いいことだと思います。映画についての議論ですが、すばらしい本についての議論でもあります。その本は、私たちの心を良い知らせへと、すばらしく向け直してくれます。ルイスは、トールキンのように、聖書の物語をもう一度想像する手伝いをしてくれます。イエスがどんな方かという物語を。そばで見ているだけではなく、イエスとともに生きる生活へと、足を踏み入れるのです。
 
+<p><strong>日本語版 — Japanese version</strong></p>
+
+<div class="video-spotlight" data-fade>
+<div class="video-facade"><button type="button" class="video-facade__button" data-video-id="Ls0RgxYjCMg" aria-label="Play video on YouTube"><img class="video-facade__thumb" src="https://i.ytimg.com/vi/Ls0RgxYjCMg/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="video-facade__play" aria-hidden="true">&#9654;</span></button></div>
+</div>
+
+動画：「魔術師のおい：新しいナルニア映画とアスラン — C.S.ルイスの言葉から考える」
+
+<p><strong>英語版 — English version</strong></p>
+
 <div class="video-spotlight" data-fade>
 <div class="video-facade"><button type="button" class="video-facade__button" data-video-id="LOAuNNf0eVs" data-video-start="2" aria-label="Play video on YouTube"><img class="video-facade__thumb" src="https://i.ytimg.com/vi/LOAuNNf0eVs/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="video-facade__play" aria-hidden="true">&#9654;</span></button></div>
 </div>
