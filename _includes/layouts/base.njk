@@ -81,8 +81,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=17" as="style">
-<link rel="stylesheet" href="/css/style.css?v=17">
+<link rel="preload" href="/css/style.css?v=18" as="style">
+<link rel="stylesheet" href="/css/style.css?v=18">
 </head>
 <body>
 <a class="skip-link" href="#main">コンテンツへスキップ</a>
@@ -96,13 +96,13 @@
   <a href="/mind-poems/">今日の詩</a>
 </nav>
 <nav class="return-home-bar" aria-label="English version">
-  <a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a>
+  <a class="return-home" href="{% if page.url == "/404.html" %}/{% else %}https://jonathanmccallum.com{{ page.url }}{% endif %}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a>
 </nav>
 <main id="main">
 {{ content | safe }}
 </main>
 <footer class="site-footer">
-  <p><a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a></p>
+  <p><a class="return-home" href="{% if page.url == "/404.html" %}/{% else %}https://jonathanmccallum.com{{ page.url }}{% endif %}">Return home to Jonathan <span lang="ja">· ジョナサンへ戻る</span></a></p>
   <p class="translation-note">翻訳がうまくいっているといいなと思っています。たぶん、いくつか間違いがあります。</p>
   <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">検索</a> · <a href="/privacy/">プライバシー</a> · <a href="#" id="cookie-settings">Cookieの設定</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
@@ -119,7 +119,7 @@
     <p class="ask-fallback"><a href="/search/">Or search the writing directly</a> — search always works, even when the chat is resting.</p>
   </div>
 </div>
-<script src="/js/main.js?v=8" defer></script>
+<script src="/js/main.js?v=9" defer></script>
 <script src="/js/contact.js?v=1" defer></script>
 <script src="/js/consent.js?v=1" defer></script>
 <script src="/js/suggest.js?v=1" defer></script>

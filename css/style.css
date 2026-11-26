@@ -244,6 +244,19 @@ button[type="submit"] {
   background: rgba(0, 0, 0, 0.75); color: #fff; border-radius: 0.5rem; font-size: 1.25rem;
 }
 .video-facade iframe, .video-facade + iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }
+/* Video spotlight: a gentle gold pulsing border around a featured video.
+   The scroll fade-in comes from the site's existing data-fade mechanism
+   (see the .js-fade rules below). Still when the reader prefers
+   reduced motion. */
+.video-spotlight { border: 2px solid #e8c87a; border-radius: 0.75rem; padding: 0.5rem; margin: 1.5rem 0; animation: video-spotlight-pulse 3s ease-in-out infinite; }
+.video-spotlight .video-facade { margin: 0; }
+@keyframes video-spotlight-pulse {
+  0%, 100% { border-color: #e8c87a; box-shadow: 0 0 0 0 rgba(232, 200, 122, 0); }
+  50% { border-color: #c8a24a; box-shadow: 0 0 12px 2px rgba(232, 200, 122, 0.45); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .video-spotlight { animation: none; }
+}
 /* Watch row: a horizontal scroll-snap row of tap-to-load video cards.
    The YouTube links in index.njk are turned into facades by the
    videoFacade transform, so no iframe or third-party script loads
