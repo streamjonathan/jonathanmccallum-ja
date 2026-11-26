@@ -530,3 +530,13 @@ html[data-theme="light"] .mind-poems__accent--bronze { color: #96601f; }
 .mind-poems__list .mind-poems__en { text-align: left; }
 .mind-poems__note { color: var(--muted); font-size: 0.95rem; }
 .mind-poems__list li.mind-poems__card--boxed { padding: 1rem; border-radius: 0.75rem; }
+
+/* Audio Bible player (Japanese article: Learning Basque and Japanese by Listening) */
+.audio-bible { margin: 2rem 0; padding: 1.25rem 1.5rem; border: 1px solid #e8c87a; border-radius: 12px; background: #fffdf6; }
+.audio-bible p { margin: 0 0 1rem; line-height: 1.7; }
+.audio-bible-chapters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+.audio-bible-chapters button { font-family: inherit; padding: 0.5rem 0.9rem; border-radius: 999px; border: 1px solid #c8a24a; background: #fff; cursor: pointer; }
+.audio-bible-chapters button.is-active { background: #e8c87a; }
+.audio-bible audio { width: 100%; }
+.audio-bible-links { margin: 1rem 0 0; font-size: 0.95rem; line-height: 1.7; }
+.audio-bible-note { margin: 0.75rem 0 0; font-size: 0.9rem; line-height: 1.7; color: #555; }

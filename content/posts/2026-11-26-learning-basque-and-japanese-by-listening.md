@@ -52,6 +52,42 @@ shareImage: /images/hokusai-great-wave.jpg
 
 聞くものは、福音書、つまり新約聖書です。バスク語と日本語で、イエス様の言葉を聞きます。話は短く、言葉はシンプルで、英語で何を言っているか、もう知っています。だから、聞きながらついていけます。私の日本語のサイトには、もう新約聖書の全部があります。バスク語は、見つけられるところで聞きます。そして、私が住んでいるバスク地方では、毎日、通りやお店でバスク語が聞こえます。
 
+## 聴いてみる — どの日本語の聖書を使うか
+
+読むだけではなく、聴いてみてください。
+
+日本語の聖書には、いくつかの訳があります。古いことばの訳もあれば、今の人が毎日使うことばの訳もあります。聴くときは、わたしはリビングバイブルを使います。やさしい日本語で書かれているので、聴きやすくてわかりやすいです。
+
+ひとつだけ、知っておいてください。このサイトの新約聖書は、1917年の古い訳（大正改訳）です。古い日本語で書かれています。リビングバイブルのことばは、同じ話ですが、今の日本語です。だから、聴くことばとページのことばは、すこしちがいます。それで大丈夫です。まず聴いてみてください。
+
+下のボタンを押して、マタイの福音書1章からどうぞ。1日すこしずつでいいです。
+
+<section class="audio-bible">
+<p>リビングバイブル（やさしい日本語）で聴くことができます。登録はいりません。下のボタンを押して、章を選んでください。<br>
+Listen in the Living Bible — simple, everyday Japanese. No sign-up needed. Pick a chapter below.</p>
+
+<div class="audio-bible-chapters">
+<button type="button" data-src="https://audio-bible-cdn.youversionapi.com/406/32k/MAT/1-74396beeee1f4063a9b4946269d06488.mp3?version_id=83" data-page="https://www.bible.com/audio-bible/83/MAT.1.JCB" class="is-active">マタイ 1</button>
+<button type="button" data-src="https://audio-bible-cdn.youversionapi.com/406/32k/MRK/1-b87ce85f91f3028aa94d720273910abd.mp3?version_id=83" data-page="https://www.bible.com/audio-bible/83/MRK.1.JCB">マルコ 1</button>
+<button type="button" data-src="https://audio-bible-cdn.youversionapi.com/406/32k/LUK/1-e120d74036b63cff3fb2e217bb61838c.mp3?version_id=83" data-page="https://www.bible.com/audio-bible/83/LUK.1.JCB">ルカ 1</button>
+<button type="button" data-src="https://audio-bible-cdn.youversionapi.com/406/32k/JHN/1-98b27e5b43ce43045eac3732a56676e5.mp3?version_id=83" data-page="https://www.bible.com/audio-bible/83/JHN.1.JCB">ヨハネ 1</button>
+<button type="button" data-src="https://audio-bible-cdn.youversionapi.com/406/32k/JHN/3-cf7552a8afaef99002b60bd1ecf2c84c.mp3?version_id=83" data-page="https://www.bible.com/audio-bible/83/JHN.3.JCB">ヨハネ 3</button>
+</div>
+
+<audio id="jcb-player" controls preload="none" src="https://audio-bible-cdn.youversionapi.com/406/32k/MAT/1-74396beeee1f4063a9b4946269d06488.mp3?version_id=83"></audio>
+
+<p class="audio-bible-links">
+<a id="jcb-page-link" href="https://www.bible.com/audio-bible/83/MAT.1.JCB" target="_blank" rel="noopener">この章を bible.com で聴く</a>
+&nbsp;·&nbsp;
+<a href="https://live.bible.is/bible/jpnjcb/mat/1" target="_blank" rel="noopener">Bible.is でも聴けます</a>
+</p>
+<p class="audio-bible-note">
+このサイトの新約聖書は1917年の大正改訳（古い日本語）です。リビングバイブルは同じ話を今の日本語で語ります。だから、聴くことばとページのことばはすこしちがいます。<br>
+Japanese Contemporary Bible (リビングバイブル), © 1978, 2016 by Biblica, Inc. 音声 © 2016 Biblica, Inc.
+</p>
+</section>
+<script src="/js/audio-bible.js?v=1" defer></script>
+
 毎日、少しだけ。
 
 - 少し聞く。歩きながら、ほかのことをしながら、バスク語か日本語で福音書を10分聞く。
