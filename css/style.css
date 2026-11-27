@@ -293,7 +293,11 @@ button[type="submit"] {
 .get-involved__email { display: block; margin-top: 0.35rem; font-weight: 600; color: var(--link); }
 
 .featured { margin-top: 1.5rem; }
-.featured-row { display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x mandatory; list-style: none; padding: 0 0 0.5rem; margin: 1rem 0; }
+/* Trailing space lets the last card scroll fully to the left edge: the
+   track is 10 cards of 20rem plus 9 gaps of 1rem, and without it the
+   last card stops short, so the dots and the Previous button fall out
+   of step at the end of the track and the card before it is clipped. */
+.featured-row { display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x mandatory; list-style: none; padding: 0 max(0rem, calc(100% - 19rem)) 0.5rem 0; margin: 1rem 0; }
 /* The arrows and dots are the navigation now, so the row's own
    scrollbar is hidden. The Watch row keeps its scrollbar — it has
    no arrows, so the scrollbar is its only hint that it scrolls. */
